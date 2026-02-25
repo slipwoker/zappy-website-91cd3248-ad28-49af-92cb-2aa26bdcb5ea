@@ -1,0 +1,111 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+אני פסיכולוג קליני בשם עוזי כרמי ואני צריך אתר עבור העסק שלי
+
+### עוזי כרמי הכשרה וניסיון
+https://example.com/background
+עוזי כרמי הכשרה וניסיון | עוזי כרמי
+
+### טיפול פסיכולוגי
+https://example.com/psychology
+טיפול פסיכולוגי | עוזי כרמי
+
+### עוזי כרמי
+https://example.com/difficulties
+עוזי כרמי | עוזי כרמי
+
+### Faq
+https://example.com/faq
+Faq | עוזי כרמי
+
+### עוזי כרמי
+https://example.com/articles
+עוזי כרמי | עוזי כרמי
+
+### צרו קשר
+https://example.com/contact
+צרו קשר | עוזי כרמי
+
+### טראומטית
+https://example.com/difficulties/ptsd
+טראומטית | עוזי כרמי
+
+### טיפול פסיכולוגי בחרדה
+https://example.com/difficulties/anxiety-treatment
+טיפול פסיכולוגי בחרדה | עוזי כרמי
+
+### מתי כדאי לפנות לפסיכולוג
+https://example.com/faq/approach
+מתי כדאי לפנות לפסיכולוג | עוזי כרמי
+
+### טיפול דינמי ארוך טווח
+https://example.com/faq/howmuchtime
+טיפול דינמי ארוך טווח | עוזי כרמי
+
+### טיפול נפשי למבוגרים
+https://example.com/faq/transferance
+טיפול נפשי למבוגרים | עוזי כרמי
+
+### העברה בטיפול
+https://example.com/faq/clinical-transferance
+העברה בטיפול | עוזי כרמי
+
+### למה אני עייף
+https://example.com/faq/tired
+למה אני עייף | עוזי כרמי
+
+### הכול על טיפול פסיכולוגי
+https://example.com/faq/meditation
+הכול על טיפול פסיכולוגי | עוזי כרמי
+
+### פסיכולוגיה ובודהיזם
+https://example.com/articles/transience
+פסיכולוגיה ובודהיזם | עוזי כרמי
+
+### מושג ארעיות
+https://example.com/articles/transience-part2
+מושג ארעיות | עוזי כרמי
+
+### חלק ג'
+https://example.com/articles/transience-part3
+חלק ג&#39; | עוזי כרמי
+
+### טיפול נפשי במצבי משבר
+https://example.com/articles/psychoanalysis
+טיפול נפשי במצבי משבר | עוזי כרמי
+
+### טיפול נפשי למבוגרים
+https://example.com/articles/freud
+טיפול נפשי למבוגרים | עוזי כרמי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
